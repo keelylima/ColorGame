@@ -3,7 +3,7 @@ Jogo de cores feito com vanilla js
 
 Algumas telas do jogo:
 
-Um jogo de "adivinhação" onde é mostrado de forma aleatória códigos de cores em RGB e quadrados onde um em específico corresponde a cor solicidata.
+Um jogo de "adivinhação" onde é mostrado de forma aleatória códigos de cores em RGB e quadrados onde um em específico corresponde a cor solicitada.
 O jogo possui 2 modos, easy e hard
 ![Jogo](https://i.imgur.com/aEfIrIY.png)
 ![Jogo](https://i.imgur.com/FsEDyJh.png)
