@@ -1,8 +1,6 @@
 # ColorGame
 Jogo de cores feito com vanilla js
 
-Feito no curso: **The Web Developer Bootcamp**
-
 Algumas telas do jogo:
 
 Um jogo de "adivinhação" onde é mostrado de forma aleatória códigos de cores em RGB e quadrados onde um em específico corresponde a cor solicidata.
